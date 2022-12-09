@@ -1,0 +1,58 @@
+/* header color #2E2F42;*/
+/*standard color #434455;*/
+/*accent color for :hover and :active #4D5AE5;*/
+
+/*---index.html styles---*/
+
+    /* page background color */
+.body{
+   background-color: #ffffff;
+   color: #434455; 
+}
+    /*logo, contacts and nav*/
+.logo{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+.logo-studio{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+    color: #2E2F42;
+    text-decoration: none;
+}
+.nav-link{
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+
+/*banner*/
+.banner{
+    background: #2E2F42;
+}
+.banner-logo{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+
+}
+/*button*/
+.button{
+    background-color: #4D5AE5;
+    color:#FFFFFF;
+}
+
